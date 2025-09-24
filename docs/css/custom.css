@@ -58,3 +58,8 @@
 .admonition.danger  .admonition-title::before { content: "☠️"; }
 .admonition.failure .admonition-title::before { content: "❌"; }
 .admonition.example .admonition-title::before { content: "🎲"; }
+
+.harpr-aside {
+  color: #BD93F9;  /* purple */
+  font-style: italic;
+}
