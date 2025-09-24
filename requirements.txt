@@ -1,0 +1,12 @@
+# Core
+mkdocs==1.6.0
+
+# Themes (keep BOTH if you sometimes switch; MkDocs only uses what mkdocs.yml selects)
+mkdocs-material==9.5.27
+mkdocs-dracula-theme==1.0.6
+
+# Plugins you’ve mentioned/used
+mkdocs-redirects==1.2.1
+
+# Markdown extensions (admonitions, details, superfences, tabbed, emoji, etc.)
+pymdown-extensions==10.8.1
