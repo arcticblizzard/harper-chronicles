@@ -30,7 +30,4 @@ markdown_extensions:
 nav:
   - Preface: preface.md
   - Prologue: prologue.md
-  - Supplemental 1: supplemental_1.md
-  - Arc 1 - The Frailty of Flesh:
-    - Chapter 1: arcs/01_frailty_of_flesh/chapter_1.md
-    - Chapter 2: arcs/01_frailty_of_flesh/chapter_2.md
+  - Supplemental 1: supplemental-1.md
