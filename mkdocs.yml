@@ -1,0 +1,36 @@
+site_name: Starforged
+# site_url: https://arcticblizzard.github.io/Starforged/   # disable for local dev
+
+theme: 
+  name: dracula
+  logo: images/starforged_logo.png
+
+extra_css:
+  - css/custom.css
+
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+        index.md : preface.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Preface: preface.md
+  - Prologue: prologue.md
+  - Supplemental 1: supplemental_1.md
+  - Arc 1 - The Frailty of Flesh:
+    - Chapter 1: arcs/01_frailty_of_flesh/chapter_1.md
+    - Chapter 2: arcs/01_frailty_of_flesh/chapter_2.md
