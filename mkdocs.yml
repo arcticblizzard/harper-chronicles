@@ -1,4 +1,4 @@
-site_name: Starforged
+site_name: Harper Chronicles
 # site_url: https://arcticblizzard.github.io/Starforged/   # disable for local dev
 
 theme: 
@@ -31,6 +31,9 @@ nav:
   - Preface: preface.md
   - Prologue: prologue.md
   - Supplemental 1: supplemental-1.md
+<<<<<<< HEAD
   - Arc 1 - The Frailty of Flesh:
     - Chapter 1: arcs/01-frailty-of-flesh/chapter-1.md
     - Chapter 2: arcs/01-frailty-of-flesh/chapter-2.md
+=======
+>>>>>>> origin/main
