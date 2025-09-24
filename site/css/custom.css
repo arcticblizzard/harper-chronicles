@@ -1,0 +1,60 @@
+:root {
+  --gradientDegree: 135deg;
+
+  /* primary purple (upper corner) — keep deep and rich */
+  --purple: #1b0033;   /* deep plum / interstellar void */
+
+  /* mid-tone cyan/magenta mix — adds galactic energy */
+  --cyan:   #b23a48;   /* muted magenta-carmine */
+
+  /* bottom highlight — darker and cooler than before */
+  --green:  #a97826;   /* bronze-gold nebula dust, slightly subdued */
+
+  /* transparent variants for any theme elements that use alpha blending */
+  --purple-transparent: rgba(27, 0, 51, 0.35);
+  --cyan-transparent:   rgba(178, 58, 72, 0.35);
+  --green-transparent:  rgba(169, 120, 38, 0.35);
+}
+
+
+/* Base admonition box */
+.admonition {
+  border-left: 0.25rem solid #bd93f9; /* Dracula purple accent */
+  margin: 1em 0;
+  padding: 0.6em 1em;
+  background: #282a36; /* Dracula background */
+  border-radius: 0 0.3rem 0.3rem 0;
+}
+
+/* Title bar */
+.admonition-title {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  color: #f8f8f2; /* Dracula foreground */
+}
+
+/* Type-specific accents */
+.admonition.note    { border-color: #8be9fd; } /* cyan */
+.admonition.info    { border-color: #8be9fd; }
+.admonition.tip     { border-color: #50fa7b; } /* green */
+.admonition.success { border-color: #50fa7b; }
+.admonition.warning { border-color: #f1fa8c; } /* yellow */
+.admonition.danger  { border-color: #ff5555; } /* red */
+.admonition.failure { border-color: #ff5555; }
+.admonition.example { border-color: #bd93f9; } /* purple */
+
+/* Apply to the admonition title span */
+.admonition-title::before {
+  display: inline-block;
+  margin-right: 0.4em;
+}
+
+/* Per type */
+.admonition.note    .admonition-title::before { content: "📝"; }
+.admonition.info    .admonition-title::before { content: "🔭"; }
+.admonition.tip     .admonition-title::before { content: "✨"; }
+.admonition.success .admonition-title::before { content: "✅"; }
+.admonition.warning .admonition-title::before { content: "⚠️"; }
+.admonition.danger  .admonition-title::before { content: "☠️"; }
+.admonition.failure .admonition-title::before { content: "❌"; }
+.admonition.example .admonition-title::before { content: "🎲"; }
