@@ -31,3 +31,6 @@ nav:
   - Preface: preface.md
   - Prologue: prologue.md
   - Supplemental 1: supplemental-1.md
+  - Arc 1 - The Frailty of Flesh:
+    - Chapter 1: arcs/01-frailty-of-flesh/chapter-1.md
+    - Chapter 2: arcs/01-frailty-of-flesh/chapter-2.md
