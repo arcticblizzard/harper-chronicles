@@ -1,0 +1,116 @@
+{
+  "HARPR Aside": {
+    "scope": "markdown",
+    "prefix": "aside",
+    "body": [
+      "_[$1]_{.harpr-aside}"
+    ],
+    "description": "Insert HARPR aside block"
+  },
+
+  "Action Roll Admonition": {
+    "scope": "markdown",
+    "prefix": "action-roll",
+    "body": [
+      "!!! example \"Action Roll – ${1:Move Type}\"",
+      "    **Action:** +${2:Attribute} (+${3:X}) → `d6+${3} = ${4:Result}`  ",
+      "    **Challenge:** `d10=${5:Y}`, `d10=${6:Z}`  ",
+      "    **Result:** **${7:Result}** — ${8:Description}  ",
+      "    **Momentum:** ${9:+-X}"
+    ],
+    "description": "Starforged Action Roll block"
+  },
+
+  "Opportunity Admonition": {
+    "scope": "markdown",
+    "prefix": "opportunity",
+    "body": [
+      "!!! tip \"Opportunity\"",
+      "    Match on a hit: ${1:description}"
+    ],
+    "description": "Starforged Opportunity block"
+  },
+
+  "Complication Admonition": {
+    "scope": "markdown",
+    "prefix": "complication",
+    "body": [
+      "!!! warning \"Complication\"",
+      "    Match on a miss: ${1:description}"
+    ],
+    "description": "Starforged Complication block"
+  },
+
+  "Oracle Admonition": {
+    "scope": "markdown",
+    "prefix": "oracle",
+    "body": [
+      "!!! info \"Oracle – ${1:Title}\"",
+      "    `d100=${2:result}` → *${1}*.  ",
+      "    ${3:description}"
+    ],
+    "description": "Starforged Oracle block"
+  },
+
+  "Suffer Admonition": {
+    "scope": "markdown",
+    "prefix": "suffer",
+    "body": [
+      "!!! danger \"Suffer – ${1:attribute}\"",
+      "    −${2:X} ${1} → **${1} ${3:from} → ${4:to}**  ",
+      "    Trigger: ${5:description}"
+    ],
+    "description": "Starforged Suffer block"
+  },
+
+  "Success Admonition": {
+    "scope": "markdown",
+    "prefix": "success",
+    "body": [
+      "!!! success \"${1:roll type} – ${2:result type}\"",
+      "    **Vow:** ${3:vow title} (${4:vow level})  ",
+      "    **Progress:** ▣▣▣▣□□ → ${5:X}  ",
+      "    Outcome: ${6:outcome}; +${7:Y} momentum."
+    ],
+    "description": "Starforged Success/Vow outcome block"
+  },
+
+  "HARPR SitRep": {
+    "scope": "markdown",
+    "prefix": "sitrep",
+    "body": [
+      "# HARPR SitRep  ",
+      "*Human/AI Relational Pattern Recorder — Situation Report*  ",
+      "",
+      "| **Host / Condition** | **Vows / Assets / Threats** |",
+      "|----------------------|------------------------------|",
+      "| **Designation:** ${1:Kazrik Vaelor}  <br> **Condition:** ${2:Stable / Wounded / etc.}  <br> **Recent Trauma:** ${3:Describe}  <br> **Behavioral Stability:** ${4:Notes}  <br><br> **Vitals**<br> <span style=\\\"display:inline-block; min-width:5rem; margin-right:.5rem;\\\">Health<br>${5:▣□□□□}</span> <span style=\\\"display:inline-block; min-width:5rem; margin-right:.5rem;\\\">Spirit<br>${6:▣□□□□}</span> <span style=\\\"display:inline-block; min-width:5rem; margin-right:.5rem;\\\">Supply<br>${7:▣□□□□}</span> <span style=\\\"display:inline-block; min-width:5rem;\\\">Momentum<br>${8:+-X}</span> <br><br> **Attributes**  <br> • Edge: ${9:1} — Speed, agility, ranged combat  <br> • Heart: ${10:2} — Courage, loyalty, empathy  <br> • Iron: ${11:2} — Strength, endurance, melee  <br> • Shadow: ${12:1} — Stealth, deception, cunning  <br> • Wits: ${13:3} — Expertise, knowledge, observation | **Active Vows**  <br> 1. ${14:Find suitable host for HARPR} — ${15:Epic} — ${16:[□□□□□□□□□□]}  <br> 2. ${17:Collect artifacts/data for the University} — ${18:Formidable} — ${19:[□□□□□□□□□□]}  <br> 3. ${20:[Title]} — ${21:[Rank]} — ${22:[□□□□□□□□□□]}  <br><br> **Assets / Resources**  <br> • Ship: ${23:Wayfinder (5 Integrity)}  <br> • Paths: ${24:Scavenger, Voidborn}  <br> • Other: ${25:Symbiote (HARPR)}  <br> • Resources: ${26:Bleak-iron scrap}  <br><br> **Threat Assessments**  <br> • Immediate: ${27:[Short-term]}  <br> • Mid-term: ${28:[Medium-term]}  <br> • Long-term: ${29:[Overarching]} |",
+      "",
+      "---",
+      "",
+      "__Report Notes__",
+      "*${30:Insert reflective note, analysis, or dry AI commentary here}*  ",
+      "",
+      "---"
+    ],
+    "description": "Insert HARPR Situation Report table and notes"
+  },
+
+  "MC short": {
+    "scope": "markdown",
+    "prefix": "mc",
+    "body": [
+      "Kez"
+    ],
+    "description": "Insert MC short name"
+  },
+  
+  "MC full": {
+    "scope": "markdown",
+    "prefix": "MC",
+    "body": [
+      "Kezrik"
+    ],
+    "description": "Insert MC full name"
+  }
+}

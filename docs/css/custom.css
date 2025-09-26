@@ -60,6 +60,6 @@
 .admonition.example .admonition-title::before { content: "🎲"; }
 
 .harpr-aside {
-  color: #BD93F9;  /* purple */
+  color: #82AAFF;  /* purple */
   font-style: italic;
 }

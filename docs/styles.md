@@ -6,30 +6,30 @@ _[HARPR aside]_
 
 # Gameplay Callouts
 
-!!! example "Action Roll – Enter the Fray"
-    **Action:** +Edge (+2) → `d6+2 = 7`  
-    **Challenge:** `d10=4`, `d10=9`  
-    **Result:** **Weak Hit** — You’re in but not in control.  
-    **Momentum:** +3
+!!! example "Action Roll – [Move Type]"
+    **Action:** +Attribute (+X) → `d6+X = Result`  
+    **Challenge:** `d10=Y`, `d10=Z`  
+    **Result:** **[Result]** — [Description]  
+    **Momentum:** +-X
 
 !!! tip "Opportunity"
-    Match on a hit: the derelict still has power; life support is online.
+    Match on a hit: [description]
 
 !!! warning "Complication"
-    Match on a miss: rival scavengers have already tagged it.
+    Match on a miss: [description]
 
-!!! info "Oracle – Space Sightings"
-    `d100=42` → *Derelict*.  
-    Interpreted as a spindle-boom prospector adrift.
+!!! info "Oracle – [Title]"
+    `d100=[result]` → *[Title]*.  
+    [description]
 
-!!! danger "Suffer – Spirit"
-    −2 Spirit → **Spirit 5 → 3**  
-    Trigger: Endure Stress.
+!!! danger "Suffer – [attribute]"
+    −X [attribute] → **[attribute] X → Y**  
+    Trigger: [description]
 
-!!! success "Progress Roll – Strong Hit"
-    **Vow:** Find the lost beacon (Dangerous)  
-    **Progress:** ▣▣▣▣□□ → 4  
-    Outcome: Goal achieved; +2 momentum.
+!!! success "[roll type] – [result type]"
+    **Vow:** [vow title] ([vow level])  
+    **Progress:** ▣▣▣▣□□ → X  
+    Outcome: [outcome]; +Y momentum.
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 | **Host / Condition** | **Vows / Assets / Threats** |
 |----------------------|------------------------------|
-| **Designation:** [Name/Callsign]  <br> **Condition:** [Stable / Wounded / etc.]  <br> **Recent Trauma:** [Describe]  <br> **Behavioral Stability:** [Notes]  <br><br> **Vitals**<br> <span style="display:inline-block; min-width:5rem; margin-right:.5rem;">Health<br>▣□□□□</span> <span style="display:inline-block; min-width:5rem; margin-right:.5rem;">Spirit<br>▣□□□□</span> <span style="display:inline-block; min-width:5rem; margin-right:.5rem;">Supply<br>▣□□□□</span> <span style="display:inline-block; min-width:5rem;">Momentum<br>+□</span> <br><br> **Attributes**  <br> • Edge: # — Speed, agility, ranged combat  <br> • Heart: # — Courage, loyalty, empathy  <br> • Iron: # — Strength, endurance, melee  <br> • Shadow: # — Stealth, deception, cunning  <br> • Wits: # — Expertise, knowledge, observation | **Active Vows**  <br> 1. [Title] — [Rank] — [□□□□□□□□□□]  <br> 2. [Title] — [Rank] — [□□□□□□□□□□]  <br> 3. [Title] — [Rank] — [□□□□□□□□□□]  <br><br> **Assets / Resources**  <br> • Ship: [Name / status]  <br> • Paths: [Path assets]  <br> • Other: [Companion / Module / etc.]  <br> • Resources: [Items / fragments]  <br><br> **Threat Assessments**  <br> • Immediate: [Short-term]  <br> • Mid-term: [Medium-term]  <br> • Long-term: [Overarching] |
+| **Designation:** Kazrik Vaelor  <br> **Condition:** [Stable / Wounded / etc.]  <br> **Recent Trauma:** [Describe]  <br> **Behavioral Stability:** [Notes]  <br><br> **Vitals**<br> <span style="display:inline-block; min-width:5rem; margin-right:.5rem;">Health<br>▣□□□□</span> <span style="display:inline-block; min-width:5rem; margin-right:.5rem;">Spirit<br>▣□□□□</span> <span style="display:inline-block; min-width:5rem; margin-right:.5rem;">Supply<br>▣□□□□</span> <span style="display:inline-block; min-width:5rem;">Momentum<br>+-X</span> <br><br> **Attributes**  <br> • Edge: 2 — Speed, agility, ranged combat  <br> • Heart: 2 — Courage, loyalty, empathy  <br> • Iron: 1 — Strength, endurance, melee  <br> • Shadow: 1 — Stealth, deception, cunning  <br> • Wits: 3 — Expertise, knowledge, observation | **Active Vows**  <br> 1. Find suitable host for HARPR — Epic — [□□□□□□□□□□]  <br> 2. Collect artifacts/data for the University — Formidable — [□□□□□□□□□□]  <br> 3. [Title] — [Rank] — [□□□□□□□□□□]  <br><br> **Assets / Resources**  <br> • Ship: Wayfinder (5 Integrity)  <br> • Paths: Scavenger, Voidborn  <br> • Other: Symbiote (HARPR)  <br> • Resources: Bleak-iron scrap  <br><br> **Threat Assessments**  <br> • Immediate: [Short-term]  <br> • Mid-term: [Medium-term]  <br> • Long-term: [Overarching] |
 
 ---
 
