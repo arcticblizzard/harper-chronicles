@@ -36,7 +36,7 @@ Raising his left hand, Kezrik placed it upon the bleak-iron neural interface at 
 
 _[I'll never understand these vows, especially the ritual behind them. Is performing the task not enough? What do these extraneous words add to the effort?]_{.harpr-aside}
 
-!!! example "Quest Move – Swear an Iron Vow"
+!!! example "Action Roll – Swear an Iron Vow"
     **Rank:** Troublesome
     **Action:** +Heart (+2) → `d6+2 = 8`  
     **Challenge:** `d10=3`, `d10=10`  
@@ -54,7 +54,7 @@ Though usually comfortable with pregnant pauses and untenable silence, I judged 
 
 Kezrik looked down at his solitary hand, reflexively made a fist, and glumly replied, "Yeah, that might be for the best. Bring up a list of any known Rigger or contacts in this Sector, sorted by most recent contact."
 
-!!! example "Adventure Move – Gather Information"
+!!! example "Action Roll – Gather Information"
     **Action:** +Wits (+3) → `d6+3 = 5`  
     **Challenge:** `d10=4`, `d10=8`  
     **Result:** **Weak Hit** — There are Rigger's in this sector, but the data is outdated. Either have to chase leads or visit an info broker.  
@@ -66,7 +66,7 @@ Kezrik looked down at his solitary hand, reflexively made a fist, and glumly rep
 
 "I concur, our best bet is to head back to Malmar Orbital and seek out a Broker," I replied.
 
-Kezrik raised an eyebrow, "And let me guess, you already laid in a course for the station?" My response was to simply activate the helm controls and take the engines out of standby, creating a drastic change to the cockpit. The large panel over the helm flashed a visual representation of the course correction needed to reach the orbital at best speed. The dim green of standby dissolved into the harsh, sterile white that washed across the cabin, flooding every surface with flight-ready brilliance. A moment later, tremors rolled through the bulkheads as the engines roared to life.
+Kezrik raised an eyebrow, "And let me guess, you already laid in a course for the station?" My response was to simply activate the helm controls and take the engines out of standby, creating a drastic change within the cockpit. The large panel over the helm flashed a visual representation of the course correction needed to reach the orbital at best speed. The dim green of standby dissolved into the harsh, sterile white that washed across the cabin, flooding every surface with flight-ready brilliance. A moment later, tremors rolled through the bulkheads as the engines roared to life.
 
 _[It is not uncommon for Kezrik to accuse me of being overly theatrical. His assessments sometime have merit.]_{.harpr-aside}
 
