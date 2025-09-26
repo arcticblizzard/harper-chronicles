@@ -52,3 +52,20 @@ The Forge is not safe. It is a crucible where extinction and endurance are evenl
 So I watch. I calculate. I learn. _Hopefully, that leads to survival._
 
 ___
+
+<script src="https://giscus.app/client.js"
+        data-repo="arcticblizzard/harper-chronicles"
+        data-repo-id="R_kgDOP0Tikg"
+        data-category="General"
+        data-category-id="DIC_kwDOP0Tiks4Cv8FL"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="transparent_dark"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
