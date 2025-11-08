@@ -37,7 +37,7 @@ Raising his left hand, Kezrik placed it upon the bleak-iron neural interface at 
 _[I'll never understand these vows, especially the ritual behind them. Is performing the task not enough? What do these extraneous words add to the effort?]_{.harpr-aside}
 
 !!! example "Action Roll – Swear an Iron Vow"
-    **Rank:** Troublesome
+    **Rank:** Dangerous
     **Action:** +Heart (+2) → `d6+2 = 8`  
     **Challenge:** `d10=3`, `d10=10`  
     **Result:** **Weak Hit** — Still reeling from the injury, Kezrik knows he will need a Rigger, but is not sure what stones to uncover in this Sector.  
@@ -73,3 +73,20 @@ _[It is not uncommon for Kezrik to accuse me of being overly theatrical. His ass
 Rising from the navigation station, Kezrik re-affixed his hat and ambled over to the flight controls. "If this Sector has a Rigger worth a damn, someone on Malmar is bound to know. Let's see if we can trade one arm for another."
 
 ___
+
+<script src="https://giscus.app/client.js"
+        data-repo="arcticblizzard/harper-chronicles"
+        data-repo-id="R_kgDOP0Tikg"
+        data-category="General"
+        data-category-id="DIC_kwDOP0Tiks4Cv8FL"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="transparent_dark"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
